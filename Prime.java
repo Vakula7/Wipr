@@ -7,52 +7,7 @@ int i1=366;
 			System.out.println("1");
 		}
       }	
-	if(i1<22){
-			System.out.println("-1");
-		}
-			for(int j=0;j<a.length;j++){
-				for(int k=0;k<a.length;k++){
-					int c=a[j]+a[k];
-				if(c==i1){
-				System.out.println("2");
-								}
-				}
-			}
-		for(int j=0;j<a.length;j++){
-			for(int k=0;k<a.length;k++){
-				for(int l=0;l<a.length;l++){
-					int c=a[j]+a[k]+a[l];
-					if(c==i1){
-						System.out.println("3");
-			
-					}
-				}
-			}
-		}for(int j=0;j<a.length;j++){
-			for(int k=0;k<a.length;k++){
-				for(int l=0;l<a.length;l++){
-					for(int m=0;m<a.length;m++){
-					int c=a[j]+a[k]+a[l]+a[m];
-					if(c==i1){
-						System.out.println("4");
-								}
-					}
-				}
-	}
-}for(int j=0;j<a.length;j++){
-	for(int k=0;k<a.length;k++){
-		for(int l=0;l<a.length;l++){
-			for(int m=0;m<a.length;m++){
-               for(int o=0;o<a.length;o++){
-				int c=a[j]+a[k]+a[l]+a[m]+a[o];
-			if(c==i1){
-				System.out.println("5");
-			
-	             }
-               }
-			}
-		}
-	}
+
 }System.out.println("0");
 }
 }
